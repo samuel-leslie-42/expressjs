@@ -14,7 +14,7 @@ This example starts an [ExpressJS](https://expressjs.com/) server.
 
 ## ✨ Features
 
-- Express
+- Expresssd
 - TypeScript
 
 ## 💁‍♀️ How to use
